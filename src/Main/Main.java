@@ -14,7 +14,7 @@ public class Main {
                 4,
                 "felino",
                 "terrestre",
-                true,
+                false,
                 "selva",
                 true,
                 true);
